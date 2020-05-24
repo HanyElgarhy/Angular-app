@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "projectzero"
+    }
+  },
+  "defaultProject": "projectzero",
+  "cli": {
+    "analytics": false
+  }
 }
